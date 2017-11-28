@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/tanigami/wms-app.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/tanigami/wms-frontend.git
